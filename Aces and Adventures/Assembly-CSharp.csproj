@@ -1,0 +1,190 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net40</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.TerrainModule.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualDesignCafe.Rendering.Instancing">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\VisualDesignCafe.Rendering.Instancing.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\protobuf-net.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="UnityEngine.VFXModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.VFXModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.HighDefinition.Runtime">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Localization">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Unity.Localization.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VideoModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.VideoModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.DirectorModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Addressables">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Unity.Addressables.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ResourceManager">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Unity.ResourceManager.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Sheets.v4">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Apis.Sheets.v4.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Admin.Directory.directory_v1">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Apis.Admin.Directory.directory_v1.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Groupssettings.v1">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Apis.Groupssettings.v1.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Drive.v3">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Apis.Drive.v3.dll</HintPath>
+    </Reference>
+    <Reference Include="RebrandlyNET">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\RebrandlyNET.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Gmail.v1">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Apis.Gmail.v1.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Cloud.Translate.V3">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Cloud.Translate.V3.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Storage.v1">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Apis.Storage.v1.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Api.Gax">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Api.Gax.dll</HintPath>
+    </Reference>
+    <Reference Include="CsvHelper">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\CsvHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.LongRunning">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.LongRunning.dll</HintPath>
+    </Reference>
+    <Reference Include="MimeKit">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\MimeKit.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Apis.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Apis.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Cloud.Storage.V1">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Cloud.Storage.V1.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.DriveActivity.v2">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Apis.DriveActivity.v2.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Script.v1">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Apis.Script.v1.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.FirebaseDynamicLinks.v1">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Apis.FirebaseDynamicLinks.v1.dll</HintPath>
+    </Reference>
+    <Reference Include="LibTessDotNet">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\LibTessDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="VisualDesignCafe.Rendering.Nature">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\VisualDesignCafe.Rendering.Nature.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainPhysicsModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="Diacritics">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Diacritics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Tokens">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Microsoft.IdentityModel.Tokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Core">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Apis.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Api.Gax.Grpc">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\Google.Api.Gax.Grpc.dll</HintPath>
+    </Reference>
+    <Reference Include="MimeTypes">
+      <HintPath>V:\SteamLibrary\steamapps\common\Aces and Adventures\Aces and Adventures_Data\Managed\MimeTypes.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
